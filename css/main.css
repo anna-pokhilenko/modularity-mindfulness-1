@@ -55,3 +55,17 @@ li a{
   padding: 0;
   color: #3783a3;
 }
+
+.one {
+  text-align: center;
+}
+
+h2 {
+  font-size: 2rem;
+  padding: 0 .5em;
+  font-weight: normal;
+}
+
+.p-one {
+  padding: 0 .7em;
+}
