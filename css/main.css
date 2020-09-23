@@ -25,3 +25,19 @@ img {
   display: block;
   width: 100%;
 }
+
+header {
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  padding: 0;
+}
+
+li a{
+  margin: .5em;
+  color: #3783a3;
+}
