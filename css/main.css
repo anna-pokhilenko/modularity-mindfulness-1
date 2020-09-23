@@ -4,6 +4,7 @@ html {
   text-size-adjust: 100%;
   font-family: "Noto Sans", sans-serif;
   line-height: 1.5;
+  margin: 1em;
 }
 
 *,
@@ -28,6 +29,16 @@ img {
 
 header {
   text-align: center;
+  font-size: 1rem;
+}
+
+.headersub {
+    font-size: 1.125rem;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
 }
 
 ul {
@@ -35,9 +46,12 @@ ul {
   display: flex;
   justify-content: center;
   padding: 0;
+  margin: 0 0 1em 0;
 }
 
 li a{
-  margin: .5em;
+  font-size: 1.125rem;
+  margin: 0 .5em;
+  padding: 0;
   color: #3783a3;
 }
