@@ -117,3 +117,10 @@ hr {
   border-width: 2px;
   border-top: 1px solid #e2e2e2;
 }
+
+.line {
+  margin-top: 2em;
+  margin-bottom: 0;
+  border-width: 2px;
+  border-top: 1px solid #e2e2e2;
+}
